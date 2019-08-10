@@ -3,9 +3,10 @@ LibreOffice / OpenOffice Impress templates for slide presentations.
 
 ## Screenshots
 ### Red
-![IITM Red Template](https://github.com/mrprajesh/iitm-presentation-templates/raw/master/src/common/images/icon48.png "IITM Red Template")
-![IITM Blue Template](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "IITM Blue Template")
+![IITM Red Template] (IITM-red-1.png "IITM Red Template")
+
 ### Blue
+![IITM Blue Template] (IITM-blue-1.png "IITM Blue Template")
 
 ## Usage
 This is created for the students/faculty IIT Madras. They may use this free office templates for presenting in seminars/conferences/etc or when representing IIT Madras. 
