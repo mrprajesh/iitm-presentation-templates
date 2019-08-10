@@ -2,19 +2,19 @@
 LibreOffice / OpenOffice Impress templates for slide presentations. 
 
 ## Usage
-This is an LibreOffice / OpenOffice Impress presentation template -- neat clean and simple. This is created for the students/faculty of IIT Madras. They may use this free office templates for presenting in seminars/conferences/etc or when representing IIT Madras. 
+This is an OpenOffice / LibreOffice Impress presentation template -- neat, clean and simple. This is created for the students/faculties of IIT Madras. They may use this free office templates for presenting in seminars/conferences/etc or when representing IIT Madras. 
 
 ## Screenshots
-- Red 
+#### Red 
 ![IITM Red Template](https://raw.githubusercontent.com/mrprajesh/iitm-presentation-templates/master/img/IITM-red-1.png "IITM Red Template")
 
-- Blue
+#### Blue
 ![IITM Blue Template](https://raw.githubusercontent.com/mrprajesh/iitm-presentation-templates/master/img/IITM-blue-1.png "IITM Blue Template")
 
 
 
 ### Comments
-These templates are my favourite!
+These templates are my favourites!
 Cheers!
 
 
